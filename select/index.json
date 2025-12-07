@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Imaginary Friend",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-07T08:39:43.988203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "MØ",
+      "has_synced": true,
+      "path": "select/01_Imaginary_Friend_MØ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/02_Imaginary_Friend_Tove_Lo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/03_Imaginary_Friend_Catatonia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Imaginary Friend",
+      "artist": "The Divine Comedy",
+      "has_synced": false,
+      "path": "select/04_My_Imaginary_Friend_The_Divine_Comedy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Imaginary Friend",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/05_My_Imaginary_Friend_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "Night Club",
+      "has_synced": true,
+      "path": "select/06_Imaginary_Friend_Night_Club.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Imaginary Friend - (Skacoustic)",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/07_Imaginary_Friend_-_(Skacoustic)_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Imaginary Friend",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/08_My_Imaginary_Friend_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Me And My Imaginary Friend",
+      "artist": "Colin Hay",
+      "has_synced": true,
+      "path": "select/09_Me_And_My_Imaginary_Friend_Colin_Hay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "Chantal Kreviazuk",
+      "has_synced": true,
+      "path": "select/10_Imaginary_Friend_Chantal_Kreviazuk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Your Imaginary Friend",
+      "artist": "Lemon Demon",
+      "has_synced": false,
+      "path": "select/11_Your_Imaginary_Friend_Lemon_Demon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "Roger Joseph Manning Jr.",
+      "has_synced": true,
+      "path": "select/12_Imaginary_Friend_Roger_Joseph_Manning_Jr..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "Roger Joseph Manning, Jr.",
+      "has_synced": true,
+      "path": "select/13_Imaginary_Friend_Roger_Joseph_Manning,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Imaginary Friend Is STILL Addicted To Pornography",
+      "artist": "Panucci's Pizza",
+      "has_synced": true,
+      "path": "select/14_My_Imaginary_Friend_Is_STILL_Addicted_To_Pornography_Panucci's_Pizza.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "MØ",
+      "has_synced": true,
+      "path": "select/15_Imaginary_Friend_MØ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "ABSRDST",
+      "has_synced": true,
+      "path": "select/16_Imaginary_Friend_ABSRDST.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Imaginary Friend",
+      "artist": "Clément Leroux",
+      "has_synced": true,
+      "path": "select/17_Imaginary_Friend_Clément_Leroux.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Imaginary Friend",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_Imaginary_Friend_ITZY.txt"
+    }
+  ]
+}
